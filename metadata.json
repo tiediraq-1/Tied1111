@@ -1,0 +1,6 @@
+{
+  "name": "مولد الرموز الآمنة",
+  "description": "تطبيق لتوليد وحفظ رموز وكلمات مرور آمنة ومقاومة للاختراق بطول 24 خانة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
